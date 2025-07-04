@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+GameEventOne:
+  game_name: A Fun Game
+  occurred_at: 2025-07-03 13:00:02
+  event_type: COMPLETED
+  user: UserOne
+
+GameEventTwo:
+  game_name: Another Fun Game
+  occurred_at: 2025-07-01 12:00:02
+  event_type: COMPLETED
+  user: UserTwo
